@@ -1,0 +1,15 @@
+echo test | grep t
+echo hello
+history
+echo test | grep t
+exit
+echo test_glob > test_tmp.txt
+cat test_tmp.txt
+ls *.txt
+rm test_tmp.txt
+exit
+ls
+clear
+make
+clear
+exit
